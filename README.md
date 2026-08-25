@@ -1,0 +1,2 @@
+# pythonjourney
+python from basics 
